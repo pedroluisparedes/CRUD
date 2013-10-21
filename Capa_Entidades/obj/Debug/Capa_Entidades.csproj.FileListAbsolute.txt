@@ -1,0 +1,5 @@
+C:\Users\PedroLuis\Documents\Visual Studio 2012\Projects\CRUD\Capa_Entidades\bin\Debug\Capa_Entidades.dll
+C:\Users\PedroLuis\Documents\Visual Studio 2012\Projects\CRUD\Capa_Entidades\bin\Debug\Capa_Entidades.pdb
+C:\Users\PedroLuis\Documents\Visual Studio 2012\Projects\CRUD\Capa_Entidades\obj\Debug\Capa_Entidades.csprojResolveAssemblyReference.cache
+C:\Users\PedroLuis\Documents\Visual Studio 2012\Projects\CRUD\Capa_Entidades\obj\Debug\Capa_Entidades.dll
+C:\Users\PedroLuis\Documents\Visual Studio 2012\Projects\CRUD\Capa_Entidades\obj\Debug\Capa_Entidades.pdb

@@ -1,0 +1,15 @@
+c:\users\pedroluis\documents\visual studio 2012\Projects\CRUD\CRUD\bin\Debug\CRUD.exe.config
+C:\Users\PedroLuis\Documents\Visual Studio 2012\Projects\CRUD\CRUD\bin\Debug\CRUD.exe
+C:\Users\PedroLuis\Documents\Visual Studio 2012\Projects\CRUD\CRUD\bin\Debug\CRUD.pdb
+C:\Users\PedroLuis\Documents\Visual Studio 2012\Projects\CRUD\CRUD\bin\Debug\Capa_Entidades.dll
+C:\Users\PedroLuis\Documents\Visual Studio 2012\Projects\CRUD\CRUD\bin\Debug\Capa_Negocio.dll
+C:\Users\PedroLuis\Documents\Visual Studio 2012\Projects\CRUD\CRUD\bin\Debug\Capa_Datos.dll
+C:\Users\PedroLuis\Documents\Visual Studio 2012\Projects\CRUD\CRUD\bin\Debug\Capa_Entidades.pdb
+C:\Users\PedroLuis\Documents\Visual Studio 2012\Projects\CRUD\CRUD\bin\Debug\Capa_Negocio.pdb
+C:\Users\PedroLuis\Documents\Visual Studio 2012\Projects\CRUD\CRUD\bin\Debug\Capa_Datos.pdb
+C:\Users\PedroLuis\Documents\Visual Studio 2012\Projects\CRUD\CRUD\obj\Debug\CRUD.csprojResolveAssemblyReference.cache
+C:\Users\PedroLuis\Documents\Visual Studio 2012\Projects\CRUD\CRUD\obj\Debug\CRUD.frm_Principal.resources
+C:\Users\PedroLuis\Documents\Visual Studio 2012\Projects\CRUD\CRUD\obj\Debug\CRUD.Properties.Resources.resources
+C:\Users\PedroLuis\Documents\Visual Studio 2012\Projects\CRUD\CRUD\obj\Debug\CRUD.csproj.GenerateResource.Cache
+C:\Users\PedroLuis\Documents\Visual Studio 2012\Projects\CRUD\CRUD\obj\Debug\CRUD.exe
+C:\Users\PedroLuis\Documents\Visual Studio 2012\Projects\CRUD\CRUD\obj\Debug\CRUD.pdb
